@@ -54,7 +54,7 @@ pip install aiohttp
 
 1. Clone the repository:
    ```bash
-   git clone <URL>
+   git clone https://github.com/Reket7777/Soonchain-checker.git
    cd <repository>
    ```
 
