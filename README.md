@@ -1,5 +1,3 @@
-# Soonchain-checker
-
 # Soonchain Airdrop Checker
 
 This project is an asynchronous script for checking wallet eligibility in the Soonchain airdrop. It reads wallet addresses and proxies from external files, sends requests to the Soonchain API, and returns the airdrop status for each wallet.
